@@ -14,7 +14,7 @@ Hi, I'm Sebastián Versluys!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-Nietsabas@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 👨🏽‍💻 Check out my blog at pythonicnerds.me
