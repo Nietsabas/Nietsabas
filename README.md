@@ -7,7 +7,7 @@ Hi, I'm Sebastián Versluys!
 
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Otaku+by+chance;Programer+for+choice;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Otaku+by+chance;Programer+by+choice;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://wallpapers.com/images/hd/anime-boy-computer-68mzqrg6ffu3vtlw.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
