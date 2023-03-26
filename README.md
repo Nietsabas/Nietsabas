@@ -23,3 +23,11 @@ In my free time, I enjoy playing volleyball and staying active. I always look fo
 - 👨🏻‍🎓 Leader of the university group Electrotutores at the University of Chile
 - Hobbies: 📺 Manga and anime | 🏐 Volleyball 🏆 | 🎮Games | 🎶YOASOBI  | 🎬 Disney
 - 😋 Fun fact: I listened to the same 🎶[song](https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN?si=4dfe1b165b0f4c44) 🎶1735 times in a month.
+
+<h2 style="font-family: Arial, sans-serif;">Programing languages</h2>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
