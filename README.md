@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/410/932/892/how-to-train-your-dragon-toothless-dragon-wallpaper-preview.jpg" alt="Texto alternativo de la imagen" width="800" height="210">
+  <img src="https://c4.wallpaperflare.com/wallpaper/410/932/892/how-to-train-your-dragon-toothless-dragon-wallpaper-preview.jpg" alt="Texto alternativo de la imagen" width="1000" height="240">
 </p>
 
 
