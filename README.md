@@ -58,6 +58,8 @@ In my free time, I enjoy playing volleyball and staying active. I always look fo
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
+![R Studio](https://img.shields.io/badge/-R%20Studio-75AADB?style=flat-square&logo=R-Studio&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 
 ### 🧰 Libraries
