@@ -16,16 +16,15 @@ Hi, I'm Sebastián Versluys!
 ```
 I-am-Nietsabas@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-👨🏽‍💻 Check out my blog at pythonicnerds.me
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+💻 I am an electrical engineer with a strong interest in programming
+- 👨🏻‍🎓 Leader of the university group **Electrotutores ** at the University of Chile
+- Hobbies: 📺 Manga and anime | 🏐 Volleyball 🏆 | 🎮Games | .🎶YOASOBI | 🎬 Disney
+- 😋 Fun fact: I listened to 🎶あの夢をなぞって🎶1735 times in a month.
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🌟 Main languages: Python
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+
 ```
 <hr>
 
