@@ -17,8 +17,10 @@ Hi, I'm Sebastián Versluys!
 I-am-Nietsabas@github
 -------------------------
 💻 I am an electrical engineer with a strong interest in programming
-- 👨🏻‍🎓 Leader of the university group **Electrotutores ** at the University of Chile
-- Hobbies: 📺 Manga and anime | 🏐 Volleyball 🏆 | 🎮Games | .🎶YOASOBI | 🎬 Disney
+- 👨🏻‍🎓 Leader of the university group **Electrotutores ** at the 
+University of Chile
+- Hobbies: 📺 Manga and anime | 🏐 Volleyball 🏆 | 🎮Games 
+| .🎶YOASOBI | 🎬 Disney
 - 😋 Fun fact: I listened to 🎶あの夢をなぞって🎶1735 times in a month.
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
