@@ -24,7 +24,7 @@ I-am-Nietsabas@github
 😋 Fun fact: I listened to 🎶あの夢をなぞって🎶 1735 times in a month.
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python
+🌟 Main language: Python
 💖 In a complicated relationship with Neural Networks
 
 ```
