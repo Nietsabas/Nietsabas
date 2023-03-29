@@ -32,8 +32,7 @@ I-am-Nietsabas@github
 
 
 
-## ![Haikyuu](https://fontmeme.com/temporary/565c2fb70c4640c4ba30815e13c8e6ba.png)
-
+## ![Haikyuu](https://github.com/Nietsabas/Nietsabas/blob/main/Haikyuu.png)
 <br>
 
 
