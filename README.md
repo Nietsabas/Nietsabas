@@ -30,20 +30,16 @@ I-am-Nietsabas@github
 ```
 <hr>
 
-
-
 ## ![Haikyuu](https://github.com/Nietsabas/Nietsabas/blob/main/Haikyuu.png)
 <br>
 
-
-![Profile views](https://gpvc.arturio.dev/Nietsabas)
+![Profile views](https://komarev.com/ghpvc/?username=Nietsabas&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/-Nietsabas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebasti%C3%A1n-versluys-dom%C3%ADnguez/)](https://www.linkedin.com/in/sebasti%C3%A1n-versluys-dom%C3%ADnguez/)
 [![GitHub Nietsabas](https://img.shields.io/github/followers/nietsabas?label=follow&style=social)](https://github.com/nietsabas)
 
-My name is Sebastián Versluys and i am a sixth-year student at the **University of Chile** and I am currently pursuing a **master's degree** in Data Science. I consider myself **proactive** and skilled in **teamwork**, which has allowed me to effectively collaborate on university projects.
+My name is Sebastián Versluys and I am a sixth-year student at the **University of Chile** and I am currently pursuing a **master's degree** in Data Science. I consider myself **proactive** and skilled in **teamwork**, which has allowed me to effectively collaborate on university projects.
 
 In my free time, I enjoy playing volleyball and staying active. I always look for new challenges to continue learning and growing as a professional.
-
 
 <hr>
 
@@ -59,7 +55,6 @@ In my free time, I enjoy playing volleyball and staying active. I always look fo
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
 ![R Studio](https://img.shields.io/badge/-R%20Studio-75AADB?style=flat-square&logo=R-Studio&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
-
 
 ### 🧰 Libraries
 
